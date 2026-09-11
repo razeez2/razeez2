@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, welcome to my brain dump 👋
 - 🔭 I’m currently working on : building a secure, restrictive appointment booking application for my mom's health & wellness business!
 - 🌱 I’m currently learning : SOX, PCI-DSS Compliance auditing & keeping up with recent cybersecurity breaches on TLDR InfoSec.
 - 📫 How to reach me: email:raabiahazeez@gmail.com :)
