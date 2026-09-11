@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on ... building a secure, restrictive appointment booking application for my mom's health & wellness business!
-🌱 I’m currently learning ... SOX, PCI-DSS Compliance auditing & keeping up with recent cybersecurity breaches on TLDR InfoSec.
-📫 How to reach me: ... email:raabiahazeez@gmail.com.
+- 🔭 I’m currently working on : building a secure, restrictive appointment booking application for my mom's health & wellness business!
+- 🌱 I’m currently learning : SOX, PCI-DSS Compliance auditing & keeping up with recent cybersecurity breaches on TLDR InfoSec.
+- 📫 How to reach me: email:raabiahazeez@gmail.com :)
 
 <!--
 **razeez2/razeez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
